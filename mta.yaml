@@ -1,3 +1,4 @@
 _schema-version: "3.2"
 ID: trial
 version: 0.0.1
+#description: "Trial configuration for MTA"
